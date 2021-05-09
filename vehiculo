@@ -1,0 +1,27 @@
+public class vehiculo { 
+  private String matricula;
+	private String motor;
+
+
+	public vehiculo(String matricula, String motor){
+		this.matricula = matricula
+		this.motor = motor
+	}
+
+	public String getMatricula() {
+		return matricula;
+	}
+
+	public void setMatricula() {
+		this.matricula;
+	
+        }
+	public void String getMotor() {
+                return motor;
+	}
+	
+        public void setMotor() {
+                this.motor = motor
+        }
+
+}
